@@ -1,4 +1,4 @@
-87% of storage used … You can clean up space or get more storage for Drive, Gmail, and Google Photos.
+
 #program to access the reports and other observatory options.
 #requires the administrative access using an ID and a password.
 import mysql.connector
