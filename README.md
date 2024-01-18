@@ -1,3 +1,1 @@
-It is built on the foundation of an entry-exit mechanism and pillars assigned to each vehicle, it offers a streamlined and efficient approach to parking space allocation.
 The parking system is built on the foundation of an entry-exit mechanism, and it offers a streamlined and efficient approach to parking space allocation. The system utilizes a pillar assignment system, where each vehicle is individually assigned to the closest available pillar, and the details of the same are then stored in the database. It is a multistory parking system that is designed to optimize space allocation and ensure a seamless parking experience for the users.
-It is a multistory parking system.
